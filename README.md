@@ -1,7 +1,7 @@
 # ⌨️ Full Stack Developer with an affinity towards backend
 ## 🇨🇿🇦🇹 Czech-Austrian based in Vienna, passionate about programming.
 
-🔭 I’m currently open for new experiences and opportunities.
+🔭 I’m currently open for new experiences and opportunities in projects I can identify with.
 
 👨‍🎓 Fullstack Web Developer @ UpLeveled
 
@@ -13,9 +13,9 @@
 
 📫 How to reach me: Message me on [LinkedIn](https://link-url-here.org)
 
-I like projects I can identify myself with with full power.
 
-🖥️ Tech Stack
+## 🖥️ Tech Stack
+
 ![HTML](https://camo.githubusercontent.com/b1720e127ee280daab63f84b508b29abe2540b02f5f57675765ad07da1315241/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d3333333333333f7374796c653d666c6174266c6f676f3d48544d4c35)
 ![CSS](https://camo.githubusercontent.com/c38a05ab57aea563f73ae6b4aad7f556faa734d4077a7b52a2081b41ce27da40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3333333333333f7374796c653d666c6174266c6f676f3d43535333266c6f676f436f6c6f723d313537324236)
 ![TypeScript](https://camo.githubusercontent.com/f33034d35f7b1a9706dda4de4469ead7777a7d16b6c27a2e8c72bf9d0a0d9608/68747470733a2f2f62616467656e2e6e65742f62616467652f2d2f547970655363726970743f69636f6e3d74797065736372697074266c6162656c266c6162656c436f6c6f723d626c756526636f6c6f723d353535353535)
