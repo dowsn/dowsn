@@ -1,4 +1,4 @@
-# ⌨️ Full Stack Developer with an affinity towards backend
+# ⌨️ Full Stack Developer, affinity towards backend
 ## 🇨🇿🇦🇹 Czech-Austrian based in Vienna, passionate about programming.
 
 🔭 I’m currently open for new experiences and opportunities in projects I can identify with.
