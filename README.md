@@ -1,13 +1,12 @@
-# ⌨️ Full Stack Developer, affinity towards backend
+# ⌨️ Backend Developer
 ## 🇨🇿🇦🇹 Czech-Austrian based in Vienna, passionate about programming.
 
-🔭 I’m currently open for new experiences and opportunities in projects I can identify with.
 
-👨‍🎓 Fullstack Web Developer @ UpLeveled
+👨‍🎓 Fullstack Web Development @ UpLeveled
 
 📽 8+ years background in film distribution and exhibition industry with focus on Project Management.
 
-🌱 I’m currently learning <strong>GraphQL, TypeScript PostgreSQL, Node.js, React.js, Next.js, Jest, Playwright</strong>
+🌱 I’m currently learning <strong>GraphQL, TypeScript, Node.js, React.js</strong>
 
 💬 Ask me about anything
 
