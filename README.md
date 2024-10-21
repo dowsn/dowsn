@@ -1,4 +1,4 @@
-# ⌨️ Software Developer | Backend | AI Integrator
+# ⌨️ Software Engineer | Backend | AI Integrator
 ## 🇨🇿🇦🇹 Czech-Austrian based in Vienna, passionate about digital innovations and AI
 
 📽 2 years experience in digital agency.
