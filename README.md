@@ -1,12 +1,7 @@
-# ⌨️ Backend Developer
-## 🇨🇿🇦🇹 Czech-Austrian based in Vienna, passionate about programming.
-
-
-👨‍🎓 Fullstack Web Development @ UpLeveled
+# ⌨️ Software Developer | Backend | AI Integrator
+## 🇨🇿🇦🇹 Czech-Austrian based in Vienna, passionate about digital innovations
 
 📽 8+ years background in film distribution and exhibition industry with focus on Project Management.
-
-🌱 I’m currently learning <strong>GraphQL, TypeScript, Node.js, React.js</strong>
 
 💬 Ask me about anything
 
