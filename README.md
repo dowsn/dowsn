@@ -7,7 +7,7 @@
 
 💬 Ask me about anything
 
-📫 How to reach me: Message me on [LinkedIn](https://link-url-here.org)
+📫 How to reach me: Message me on [LinkedIn](https://www.linkedin.com/in/lukas-meinhart/)
 
 <img src="https://res.cloudinary.com/dkiienrq4/image/upload/v1658782385/personal/81886781_1409205789247177_6709489960103182336_n_x0fqqm.jpg" alt="Lukas" width="800"/>
 
