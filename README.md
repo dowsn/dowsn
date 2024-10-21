@@ -1,9 +1,9 @@
 # ⌨️ Software Engineer | Backend | AI Integrator
 ## 🇨🇿🇦🇹 Czech-Austrian based in Vienna, passionate about digital innovations and AI
 
-📽 2 years experience in digital agency.
+📽 2 years experience in digital agency
 
-📽 8+ years background in film distribution and exhibition industry with focus on Project Management.
+📽 8+ years background in film distribution and exhibition industry with focus on Project Management
 
 💬 Ask me about anything
 
